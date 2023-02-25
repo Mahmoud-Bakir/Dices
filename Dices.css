@@ -43,21 +43,62 @@ body{
     background-color: rgb(229, 146, 225);
     
 }
-#d1{
-    background-image: url(/assets/one.png);
-}
+#d1{display: flex;
+    justify-content: center;
+    background-image: url(../Dices/assets/one.png);
+    background-repeat: no-repeat;
+    align-items: center;
+    height: 400px; 
+    width: 475px;
+    margin-left: 100px;
+    margin-top: 50px;}
 #d2{
-    background-image: url(/assets/two.png);
-}
+    display: flex;
+    justify-content: center;
+    background-image: url(../Dices/assets/two.png);
+    background-repeat: no-repeat;
+    align-items: center;
+    height: 400px; 
+    width: 475px;
+    margin-left: 100px;
+    margin-top: 50px;}
 #d3{
-    background-image: url(/assets/three.png);
-}
+    display: flex;
+    justify-content: center;
+    background-image: url(../Dices/assets/three.png);
+    background-repeat: no-repeat;
+    align-items: center;
+    height: 400px; 
+    width: 475px;
+    margin-left: 100px;
+    margin-top: 50px;}
 #d4{
-    background-image: url(/assets/four.png);
-}
+    display: flex;
+    justify-content: center;
+    background-image: url(../Dices/assets/four.png);
+    background-repeat: no-repeat;
+    align-items: center;
+    height: 400px; 
+    width: 475px;
+    margin-left: 100px;
+    margin-top: 50px;}
 #d5{
-    background-image: url(/assets/five.png);
-}
+    display: flex;
+    justify-content: center;
+    background-image: url(../Dices/assets/five.png);
+    background-repeat: no-repeat;
+    align-items: center;
+    height: 400px; 
+    width: 475px;
+    margin-left: 100px;
+    margin-top: 50px;}
 #d6{
-    background-image: url(/assets/six.png);
-}
+    display: flex;
+    justify-content: center;
+    background-image: url(../Dices/assets/six.png);
+    background-repeat: no-repeat;
+    align-items: center;
+    height: 400px; 
+    width: 475px;
+    margin-left: 100px;
+    margin-top: 50px;}
