@@ -43,3 +43,21 @@ body{
     background-color: rgb(229, 146, 225);
     
 }
+#d1{
+    background-image: url(/assets/one.png);
+}
+#d2{
+    background-image: url(/assets/two.png);
+}
+#d3{
+    background-image: url(/assets/three.png);
+}
+#d4{
+    background-image: url(/assets/four.png);
+}
+#d5{
+    background-image: url(/assets/five.png);
+}
+#d6{
+    background-image: url(/assets/six.png);
+}
